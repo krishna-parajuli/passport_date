@@ -7,5 +7,6 @@ might need changes to make it work
 
 personal tool
 
-pip3 install <required packages>
+pip3 install \<required packages\>
+
 python3 script_name.py
